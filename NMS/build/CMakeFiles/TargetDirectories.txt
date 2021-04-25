@@ -1,0 +1,3 @@
+/home/workspace/NMS/build/CMakeFiles/rebuild_cache.dir
+/home/workspace/NMS/build/CMakeFiles/nms_example.dir
+/home/workspace/NMS/build/CMakeFiles/edit_cache.dir
